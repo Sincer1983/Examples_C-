@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\GIT\Examples\Examples_Sum\bin\Debug\net6.0\Examples_Sum.exe
+C:\Users\PC\Desktop\GIT\Examples\Examples_Sum\bin\Debug\net6.0\Examples_Sum.deps.json
+C:\Users\PC\Desktop\GIT\Examples\Examples_Sum\bin\Debug\net6.0\Examples_Sum.runtimeconfig.json
+C:\Users\PC\Desktop\GIT\Examples\Examples_Sum\bin\Debug\net6.0\Examples_Sum.dll
+C:\Users\PC\Desktop\GIT\Examples\Examples_Sum\bin\Debug\net6.0\Examples_Sum.pdb
+C:\Users\PC\Desktop\GIT\Examples\Examples_Sum\obj\Debug\net6.0\Examples_Sum.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\GIT\Examples\Examples_Sum\obj\Debug\net6.0\Examples_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\GIT\Examples\Examples_Sum\obj\Debug\net6.0\Examples_Sum.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\GIT\Examples\Examples_Sum\obj\Debug\net6.0\Examples_Sum.AssemblyInfo.cs
+C:\Users\PC\Desktop\GIT\Examples\Examples_Sum\obj\Debug\net6.0\Examples_Sum.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\GIT\Examples\Examples_Sum\obj\Debug\net6.0\Examples_Sum.dll
+C:\Users\PC\Desktop\GIT\Examples\Examples_Sum\obj\Debug\net6.0\refint\Examples_Sum.dll
+C:\Users\PC\Desktop\GIT\Examples\Examples_Sum\obj\Debug\net6.0\Examples_Sum.pdb
+C:\Users\PC\Desktop\GIT\Examples\Examples_Sum\obj\Debug\net6.0\Examples_Sum.genruntimeconfig.cache
+C:\Users\PC\Desktop\GIT\Examples\Examples_Sum\obj\Debug\net6.0\ref\Examples_Sum.dll
