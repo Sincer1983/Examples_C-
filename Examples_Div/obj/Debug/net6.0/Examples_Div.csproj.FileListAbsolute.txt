@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\GIT\Examples\Examples_Div\bin\Debug\net6.0\Examples_Div.exe
+C:\Users\PC\Desktop\GIT\Examples\Examples_Div\bin\Debug\net6.0\Examples_Div.deps.json
+C:\Users\PC\Desktop\GIT\Examples\Examples_Div\bin\Debug\net6.0\Examples_Div.runtimeconfig.json
+C:\Users\PC\Desktop\GIT\Examples\Examples_Div\bin\Debug\net6.0\Examples_Div.dll
+C:\Users\PC\Desktop\GIT\Examples\Examples_Div\bin\Debug\net6.0\Examples_Div.pdb
+C:\Users\PC\Desktop\GIT\Examples\Examples_Div\obj\Debug\net6.0\Examples_Div.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\GIT\Examples\Examples_Div\obj\Debug\net6.0\Examples_Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\GIT\Examples\Examples_Div\obj\Debug\net6.0\Examples_Div.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\GIT\Examples\Examples_Div\obj\Debug\net6.0\Examples_Div.AssemblyInfo.cs
+C:\Users\PC\Desktop\GIT\Examples\Examples_Div\obj\Debug\net6.0\Examples_Div.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\GIT\Examples\Examples_Div\obj\Debug\net6.0\Examples_Div.dll
+C:\Users\PC\Desktop\GIT\Examples\Examples_Div\obj\Debug\net6.0\refint\Examples_Div.dll
+C:\Users\PC\Desktop\GIT\Examples\Examples_Div\obj\Debug\net6.0\Examples_Div.pdb
+C:\Users\PC\Desktop\GIT\Examples\Examples_Div\obj\Debug\net6.0\Examples_Div.genruntimeconfig.cache
+C:\Users\PC\Desktop\GIT\Examples\Examples_Div\obj\Debug\net6.0\ref\Examples_Div.dll
